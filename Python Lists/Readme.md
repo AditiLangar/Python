@@ -1,0 +1,1 @@
+This file is made for Python Tutorial #3, Python Lists and the link to its blog is: https://techopaths.com/data-science/python-lists/
